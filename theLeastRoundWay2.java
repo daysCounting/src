@@ -1,5 +1,10 @@
 import java.util.Scanner;
-
+/***
+ * 
+ * @author worl
+ * Time limit exceeded
+ * But how to change n^2 to nlog(n);
+ */
 public class theLeastRoundWay2 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
